@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ARDraven 
-- 👀 I’m interested in JavaScript
+- 👀 I’m interested in JavaScript programming
 - 🌱 I’m currently learning C# & php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
